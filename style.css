@@ -407,8 +407,9 @@ form {
 .severidad {
   display: flex;
   flex-direction: row;
+  text-align: center;
   margin: 2.5em .5em;
-  width: 12em;
+  width: 6.6em;
   height: 2em;
   border-radius: .8em;
   font-size: .8rem;
